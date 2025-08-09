@@ -1,6 +1,7 @@
 #git-basics
 
--Repository
--commit
--Branch Merge
+-Repository 
+-commit 
+-Branch 
+-Merge
 -Push
