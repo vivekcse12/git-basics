@@ -1,7 +1,13 @@
 #git-basics
 
--Repository 
--commit 
--Branch 
+##Terms
+
+-Repository
+
+-commit
+
+-Branch
+
 -Merge
+
 -Push
