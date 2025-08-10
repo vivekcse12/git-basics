@@ -2,12 +2,8 @@
 
 ##Terms
 
--Repository
-
--commit
-
--Branch
-
--Merge
-
--Push
+-Repository  
+-commit  
+-Branch  
+-Merge  
+-Push  
